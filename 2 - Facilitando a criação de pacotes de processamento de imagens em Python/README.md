@@ -31,7 +31,7 @@ file1_name.my_function()
 ```
 
 ## Author
-Raquel
+Eduardo Pereira Nogueira
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
